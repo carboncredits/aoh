@@ -1,0 +1,4 @@
+gdal
+iucn_modlib @ git+https://gitlab.com/daniele.baisero/iucn-modlib
+pandas
+pytest
