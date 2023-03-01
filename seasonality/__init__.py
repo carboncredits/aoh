@@ -1,4 +1,4 @@
-from aoh.lib.helpers import ogr_open
+from .helpers import ogr_open
 
 def habitatSeasonality(taxon):
     # setup
